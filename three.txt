@@ -1,5 +1,3 @@
 trip
 three
 33
-Not three
-hell no three
